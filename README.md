@@ -1,2 +1,7 @@
-# Matplotlib_challenge-
-This analysis is based on a set of data collected by Pymaceuticals. The analysis on this animal study was conducted using Pandas and Matplotlib.
+# Matplotlib Homework: Pymeceuticals, Inc.
+
+The homework instructions and requirements are located in Canvas.
+
+- - -
+
+© 2023 edX Boot Camps LLC. Confidential and Proprietary. All Rights Reserved.
